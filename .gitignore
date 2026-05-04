@@ -1,0 +1,14 @@
+# Large media files
+*.mp4
+*.mp3
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
