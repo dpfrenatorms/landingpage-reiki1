@@ -2,6 +2,9 @@
 *.mp4
 *.mp3
 
+# Exception: optimized web video used on the landing page
+!Artefatos/avatar-01-web.mp4
+
 # macOS
 .DS_Store
 
